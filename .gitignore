@@ -1,5 +1,6 @@
 # Project-specific files
 config.py
+frontend/src/**/*.css
 
 ### Linux ###
 *~
